@@ -1,0 +1,42 @@
+[Rogin Page]
+ログイン画面
+--
+ログイン
+==>Top Page
+
+[Top Page]
+トップページ
+--
+スタート
+==>Start Page
+リスト
+==>List Page
+ログアウト
+==>Rogin Page
+
+[Start Page]
+分析開始
+--
+トップに戻る
+==>Top Page
+フィニッシュ
+==>Result Page
+
+
+[Result Page]
+今回の結果
+--
+リスタート
+==>Start Page
+トップに戻る
+==>Top Page
+リスト
+==>List Page
+
+[List Page]
+リスト
+--
+(各結果)
+==>Result Page
+トップに戻る
+==>Top Page
