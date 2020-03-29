@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "924958149579",
+    "firebase_url": "https://teraken-test.firebaseio.com",
+    "project_id": "teraken-test",
+    "storage_bucket": "teraken-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924958149579:android:a537db6716dcbf5c2fc44e",
+        "android_client_info": {
+          "package_name": "Self.Analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924958149579-5etb4gmq92g6ubk80aor3drh4av3ctf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjA0yDzCDeZ6UzCDYHB2nfRibYNAQXa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924958149579-5etb4gmq92g6ubk80aor3drh4av3ctf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924958149579:android:15a657bb96f87cb52fc44e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924958149579-5etb4gmq92g6ubk80aor3drh4av3ctf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjA0yDzCDeZ6UzCDYHB2nfRibYNAQXa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924958149579-5etb4gmq92g6ubk80aor3drh4av3ctf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
